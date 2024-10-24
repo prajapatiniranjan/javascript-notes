@@ -1,0 +1,18 @@
+#product{
+    display: flex;
+    justify-content: center;
+}
+
+#product #art1 div{
+    width: 100px;
+    height: 100px;
+    border: 2px rgb(59, 7, 16) solid;
+    margin: 20px;
+}
+
+
+#product #art2  div{
+    width: 400px;
+    height: 500px;
+    border: 2px rgb(59, 7, 16) solid;
+}

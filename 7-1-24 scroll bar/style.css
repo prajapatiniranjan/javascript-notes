@@ -1,0 +1,31 @@
+/* #slider article div img{
+    width: 1000px;
+    height: 500px;
+}
+
+#slider article{
+    display: flex;
+}
+
+#slider{
+    width: 500px;
+    border: 2px black solid;
+    overflow-x: hidden;
+    margin-left: auto;
+    margin-right: auto;
+} */
+#slider {
+    width: 1000px;
+    border: 2px black solid;
+    overflow-x: hidden;
+    margin: 0 auto;
+}
+
+#slider article {
+    display: flex;
+}
+
+#slider article div img {
+    width: 1000px;
+    height: 500px;
+}
